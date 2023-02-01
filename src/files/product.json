@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "tittle": "Celular Samsung a20",
+        "description": "celular samsung",
+        "code": "123457",
+        "price": "41000",
+        "status": "true",
+        "stock": "20",
+        "category": "Electrónica"
+}
+
+]
